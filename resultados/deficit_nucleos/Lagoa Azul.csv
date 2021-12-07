@@ -1,0 +1,21 @@
+"Código","Componente","Inadequado"
+"D01","Domicílio Improvisado",0
+"D02","Material de Parede Inadequado",47
+"D03","Densidade Excessiva em Apartamento ou Lote Condominial",14
+"D04","Coabitação",1
+"D05","Aluguel com Inadequações",10
+"D06","Moradia em Cômodo",1
+"D07","Famílias em Situação de Rua",0
+"D00","Domicílios em assentamentos precários com previsão de remoção",0
+"Déficit","Total Déficit",71
+"I01","Densidade Excessiva",59
+"I02","Ausência de Banheiro",1
+"I03","Material do Piso",7
+"I04","Água Canalizada (Urbano)",7
+"I05","Esgotamento Sanitário",74
+"I06","Abastecimento de Água por Rede Pública (Urbano)",47
+"I07","Energia Elétrica",90
+"I08","Coleta de Lixo (Urbano)",2
+"I09","Ônus Excessivo com Aluguel",14
+"I00","Domicílios em assentamentos precários sem previsão de remoção",213
+"Inadequação","Total Inadequação",213

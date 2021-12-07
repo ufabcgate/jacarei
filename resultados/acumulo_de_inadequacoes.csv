@@ -1,0 +1,303 @@
+"Situação";"Inadequações";"Quantidade de famílias"
+"Fora";"I09";2237
+"Fora";"I01";1339
+"Fora";"D03 I01";694
+"Fora";"D05 I01 I09";680
+"Fora";"I05";298
+"Dentro";"I01";254
+"Fora";"D03 D05 I01 I09";195
+"Dentro";"I09";172
+"Fora";"D07";159
+"Dentro";"D03 I01";128
+"Fora";"D04";112
+"Fora";"D05 I01";104
+"Fora";"I06";102
+"Dentro";"D05 I01 I09";98
+"Fora";"I01 I05";70
+"Dentro";"I05";68
+"Fora";"D03 D05 I01";62
+"Fora";"I07";60
+"Fora";"I05 I06";51
+"Fora";"I05 I09";46
+"Dentro";"I07";40
+"Dentro";"I05 I06 I07";36
+"Fora";"I01 I06";35
+"Fora";"I03";34
+"Dentro";"D03 D05 I01 I09";30
+"Fora";"D06";29
+"Dentro";"I05 I07";28
+"Dentro";"I01 I05";27
+"Fora";"I01 I07";27
+"Fora";"D05 I01 I05 I09";26
+"Fora";"I01 I05 I06";25
+"Dentro";"I01 I05 I07";24
+"Fora";"I05 I07";24
+"Fora";"I06 I07";24
+"Fora";"D03 I01 I05";23
+"Dentro";"I01 I07";21
+"Dentro";"I06";21
+"Fora";"I01 I05 I07";21
+"Fora";"I04";20
+"Fora";"I05 I06 I07";18
+"Dentro";"D05 I01";17
+"Dentro";"I01 I05 I06 I07";17
+"Fora";"D05 I03 I09";17
+"Fora";"I02";16
+"Dentro";"D04";15
+"Fora";"D01";15
+"Fora";"D06 I02";15
+"Dentro";"D02 I01 I05 I06 I07";13
+"Dentro";"I06 I07";13
+"Fora";"I06 I09";13
+"Fora";"D02 I03 I04 I05 I06 I07";12
+"Fora";"I03 I04 I05 I06 I07";12
+"Fora";"I04 I05 I06 I07";12
+"Fora";"I04 I06";12
+"Fora";"D06 I09";11
+"Fora";"I01 I05 I06 I07";10
+"Fora";"D02 D06 I02 I03 I04 I06 I07";9
+"Fora";"I01 I04 I06";9
+"Fora";"I07 I09";9
+"Dentro";"D02 I01 I05 I07";8
+"Dentro";"D02 I05 I06 I07";8
+"Dentro";"I01 I06 I07";8
+"Fora";"I01 I06 I07";8
+"Fora";"I05 I06 I09";8
+"Fora";"D02";7
+"Fora";"D02 I03 I05 I07";7
+"Fora";"D03 D06 I01";7
+"Fora";"D03 I01 I07";7
+"Fora";"D05 D06 I02 I09";7
+"Fora";"D05 I01 I05 I06 I09";7
+"Fora";"D05 I01 I06 I09";7
+"Fora";"D05 I01 I07 I09";7
+"Fora";"D06 I01";7
+"Fora";"I08";7
+"Dentro";"D02 I05 I07";6
+"Dentro";"D03 D05 I01";6
+"Dentro";"I05 I06";6
+"Dentro";"I05 I09";6
+"Fora";"D03 D05 I01 I05 I09";6
+"Fora";"D03 I01 I02";6
+"Fora";"D03 I01 I06";6
+"Fora";"I01 I03";6
+"Fora";"I04 I05 I06";6
+"Dentro";"D03 I01 I05";5
+"Dentro";"I02 I03 I07";5
+"Fora";"D03 D05 I01 I06 I09";5
+"Fora";"D03 I01 I05 I06";5
+"Fora";"I03 I05 I07";5
+"Fora";"I06 I08";5
+"Dentro";"D03 D06 I01";4
+"Dentro";"D07";4
+"Fora";"D02 I01 I03 I05 I07";4
+"Fora";"D03 D06 I01 I02";4
+"Fora";"D03 I01 I04";4
+"Fora";"D05 I01 I03 I09";4
+"Fora";"D05 I01 I05";4
+"Fora";"D05 I04";4
+"Fora";"I01 I04";4
+"Fora";"I03 I05";4
+"Dentro";"D02 I03 I05 I07";3
+"Dentro";"D02 I04 I05 I06 I07";3
+"Dentro";"D03 I01 I07";3
+"Dentro";"D05 I01 I05 I09";3
+"Dentro";"D05 I01 I07 I09";3
+"Dentro";"D06";3
+"Dentro";"I01 I03 I05 I06 I07";3
+"Dentro";"I01 I04 I06";3
+"Dentro";"I01 I05 I06";3
+"Dentro";"I01 I06";3
+"Dentro";"I04 I05 I06 I07";3
+"Dentro";"I07 I09";3
+"Fora";"D03 D05 I01 I05";3
+"Fora";"D03 I01 I03";3
+"Fora";"D05 I01 I05 I06 I07 I09";3
+"Fora";"D05 I01 I05 I07 I09";3
+"Fora";"D05 I02 I09";3
+"Fora";"D06 I02 I04";3
+"Fora";"D06 I02 I04 I06";3
+"Fora";"I01 I04 I06 I07";3
+"Fora";"I02 I04 I06";3
+"Fora";"I05 I06 I07 I09";3
+"Fora";"I05 I06 I08";3
+"Dentro";"D02 I01 I03 I05 I06 I07";2
+"Dentro";"D02 I01 I04 I05 I06 I07";2
+"Dentro";"D02 I01 I04 I05 I07";2
+"Dentro";"D02 I01 I06 I07";2
+"Dentro";"D02 I01 I07";2
+"Dentro";"D02 I03 I04 I05 I06 I07";2
+"Dentro";"D02 I07";2
+"Dentro";"D03 I01 I05 I06";2
+"Dentro";"D03 I01 I05 I06 I07";2
+"Dentro";"D05 I01 I06 I09";2
+"Dentro";"D06 I02 I04";2
+"Dentro";"I04 I05 I06";2
+"Dentro";"I04 I06";2
+"Dentro";"I05 I06 I07 I09";2
+"Dentro";"I05 I07 I09";2
+"Dentro";"I06 I07 I09";2
+"Fora";"D02 I01 I03 I04 I05 I06 I07";2
+"Fora";"D02 I01 I05 I06 I07";2
+"Fora";"D02 I01 I05 I07";2
+"Fora";"D02 I03 I04 I06 I07";2
+"Fora";"D02 I04 I05 I06 I07";2
+"Fora";"D02 I05 I06";2
+"Fora";"D03 D05 I01 I07 I09";2
+"Fora";"D03 D06 I01 I02 I06";2
+"Fora";"D03 I01 I02 I06";2
+"Fora";"D03 I01 I06 I07";2
+"Fora";"D05 D06 I01";2
+"Fora";"D05 I01 I04 I05 I06 I09";2
+"Fora";"D05 I01 I05 I06";2
+"Fora";"D05 I01 I06 I07 I09";2
+"Fora";"D05 I03";2
+"Fora";"D05 I04 I05 I06 I09";2
+"Fora";"D05 I04 I06 I09";2
+"Fora";"D06 I02 I04 I06 I07";2
+"Fora";"I01 I02";2
+"Fora";"I01 I03 I05";2
+"Fora";"I01 I04 I05 I06 I07";2
+"Fora";"I02 I03";2
+"Fora";"I02 I07";2
+"Fora";"I03 I04 I05 I07";2
+"Fora";"I03 I04 I06 I07";2
+"Fora";"I04 I06 I07";2
+"Fora";"I05 I07 I09";2
+"Dentro";"D02";1
+"Dentro";"D02 D03 I01 I06 I07";1
+"Dentro";"D02 D06 I01 I02";1
+"Dentro";"D02 D06 I02 I06 I07";1
+"Dentro";"D02 I01";1
+"Dentro";"D02 I01 I03 I04 I05 I06 I07";1
+"Dentro";"D02 I01 I03 I05 I07";1
+"Dentro";"D02 I02 I03 I07";1
+"Dentro";"D02 I02 I04 I06 I07";1
+"Dentro";"D02 I02 I06 I07";1
+"Dentro";"D02 I03 I06 I07";1
+"Dentro";"D02 I05";1
+"Dentro";"D02 I06 I07";1
+"Dentro";"D03 D05 I01 I07 I09";1
+"Dentro";"D03 D06 I01 I03";1
+"Dentro";"D03 I01 I02";1
+"Dentro";"D03 I01 I04 I06";1
+"Dentro";"D03 I01 I05 I07";1
+"Dentro";"D03 I01 I06";1
+"Dentro";"D05 D06 I01 I09";1
+"Dentro";"D05 I01 I02 I09";1
+"Dentro";"D05 I01 I05 I06 I09";1
+"Dentro";"D06 I01 I05 I07";1
+"Dentro";"D06 I02";1
+"Dentro";"D06 I02 I03 I04 I06 I07";1
+"Dentro";"D06 I02 I03 I07";1
+"Dentro";"D06 I02 I06";1
+"Dentro";"D06 I09";1
+"Dentro";"I01 I02";1
+"Dentro";"I01 I03 I04 I05 I06 I07";1
+"Dentro";"I01 I04";1
+"Dentro";"I01 I04 I05 I06 I07";1
+"Dentro";"I01 I04 I05 I07";1
+"Dentro";"I01 I04 I06 I07";1
+"Dentro";"I01 I05 I07 I08";1
+"Dentro";"I02 I04 I06 I07";1
+"Dentro";"I02 I08";1
+"Dentro";"I03";1
+"Dentro";"I03 I05 I06 I07";1
+"Dentro";"I03 I05 I07";1
+"Dentro";"I03 I07";1
+"Dentro";"I04";1
+"Dentro";"I04 I05";1
+"Dentro";"I05 I06 I08";1
+"Dentro";"I05 I06 I09";1
+"Dentro";"I07 I08";1
+"Fora";"D02 D03 I01";1
+"Fora";"D02 D03 I01 I05";1
+"Fora";"D02 D03 I01 I06";1
+"Fora";"D02 D03 I01 I06 I07";1
+"Fora";"D02 D03 I01 I07";1
+"Fora";"D02 D06 I02";1
+"Fora";"D02 D06 I02 I03 I07";1
+"Fora";"D02 D06 I02 I04 I06 I07";1
+"Fora";"D02 D06 I03 I04 I05 I06 I07";1
+"Fora";"D02 I01 I02 I06 I07";1
+"Fora";"D02 I01 I03 I06";1
+"Fora";"D02 I01 I04 I05";1
+"Fora";"D02 I01 I04 I05 I06 I07";1
+"Fora";"D02 I01 I04 I06 I07";1
+"Fora";"D02 I01 I06";1
+"Fora";"D02 I01 I06 I07";1
+"Fora";"D02 I01 I07";1
+"Fora";"D02 I02";1
+"Fora";"D02 I02 I03 I04 I06 I07";1
+"Fora";"D02 I03 I04 I05 I06 I07 I08";1
+"Fora";"D02 I03 I06";1
+"Fora";"D02 I03 I07";1
+"Fora";"D02 I04 I06 I07";1
+"Fora";"D02 I05";1
+"Fora";"D02 I05 I06 I07";1
+"Fora";"D02 I05 I07";1
+"Fora";"D02 I07";1
+"Fora";"D03 D05 D06 I01 I09";1
+"Fora";"D03 D05 I01 I02 I04 I06 I09";1
+"Fora";"D03 D05 I01 I03 I09";1
+"Fora";"D03 D05 I01 I04 I06 I07 I09";1
+"Fora";"D03 D05 I01 I04 I09";1
+"Fora";"D03 D05 I01 I05 I07 I09";1
+"Fora";"D03 D05 I01 I06";1
+"Fora";"D03 D05 I01 I07";1
+"Fora";"D03 D06 I01 I02 I04";1
+"Fora";"D03 D06 I01 I02 I04 I06";1
+"Fora";"D03 D06 I01 I04";1
+"Fora";"D03 D06 I01 I05";1
+"Fora";"D03 I01 I03 I04 I06";1
+"Fora";"D03 I01 I04 I06 I07";1
+"Fora";"D03 I01 I04 I06 I08";1
+"Fora";"D03 I01 I06 I08";1
+"Fora";"D05 D06 I01 I02 I09";1
+"Fora";"D05 D06 I02";1
+"Fora";"D05 D06 I02 I03 I04 I06";1
+"Fora";"D05 D06 I02 I04 I09";1
+"Fora";"D05 D06 I02 I06 I09";1
+"Fora";"D05 D06 I03 I09";1
+"Fora";"D05 D06 I04";1
+"Fora";"D05 I01 I02 I09";1
+"Fora";"D05 I01 I03";1
+"Fora";"D05 I01 I04 I09";1
+"Fora";"D05 I01 I06";1
+"Fora";"D05 I02 I04";1
+"Fora";"D05 I02 I04 I06";1
+"Fora";"D05 I04 I05 I06";1
+"Fora";"D06 I01 I02";1
+"Fora";"D06 I01 I02 I04 I06";1
+"Fora";"D06 I01 I07";1
+"Fora";"D06 I02 I03 I04 I07";1
+"Fora";"D06 I02 I03 I06 I07";1
+"Fora";"D06 I02 I03 I07";1
+"Fora";"D06 I02 I07";1
+"Fora";"D06 I03";1
+"Fora";"D06 I05";1
+"Fora";"D06 I05 I06";1
+"Fora";"D06 I06 I09";1
+"Fora";"D06 I07";1
+"Fora";"I01 I02 I06";1
+"Fora";"I01 I03 I04 I05 I06";1
+"Fora";"I01 I03 I05 I06 I07";1
+"Fora";"I01 I03 I06 I07";1
+"Fora";"I01 I04 I05 I07";1
+"Fora";"I01 I04 I06 I08";1
+"Fora";"I01 I05 I06 I08";1
+"Fora";"I01 I06 I08";1
+"Fora";"I01 I08";1
+"Fora";"I02 I03 I04 I06 I07";1
+"Fora";"I02 I03 I07";1
+"Fora";"I02 I04";1
+"Fora";"I02 I04 I06 I07";1
+"Fora";"I02 I06";1
+"Fora";"I03 I04 I05 I06 I07 I08";1
+"Fora";"I03 I05 I06 I07";1
+"Fora";"I03 I07";1
+"Fora";"I04 I05";1
+"Fora";"I04 I05 I07";1
+"Fora";"I05 I06 I08 I09";1
+"Fora";"I05 I07 I08";1
+"Fora";"I08 I09";1
